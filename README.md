@@ -23,7 +23,7 @@ cmake ..
 
 Check the build folder. You should now have project files in it.
 
-If you are on Windows and using Visual Studio, open the "StarterProject.sln" file with Visual Studio. Then in the Solution Explorer, right click on the StarterProject project, and choose "Set as startup project". Then, using the top menu, navigate to Debug → Start Without Debugging (if you use debugging, the program will terminate so quickly you won't even be able to see it).
+If you are on Windows and using Visual Studio, open the "StarterProject.sln" file with Visual Studio. Then in the Solution Explorer, right click on the StarterProject project, and choose "Set as startup project". Then, using the top menu, navigate to Debug → Start Without Debugging.
 
 If you are on Linux and using build-essentials/make, in the build directory run:
 ```
